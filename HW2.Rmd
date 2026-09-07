@@ -9,10 +9,6 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r}
-tinytex::install_tinytex()
-```
-
 # Weather Forecast Report
 
 ## Introduction
